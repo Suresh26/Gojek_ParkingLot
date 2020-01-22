@@ -2,7 +2,7 @@
 
 Run bash setup in bin directory
 
-parking_lot $ bin/setup
+**parking_lot $ bin/setup
 
 That command has automatically run unit testing, unit testing commands contained in the file  ```bin/run_functional_tests```
 
@@ -13,7 +13,7 @@ parking_lot $ bin/parking_lot [input_filepath]
 
 * Or start the program in interactive mode.
 
-parking_lot $ bin/parking_lot
+ **parking_lot $ bin/parking_lot
 
 
 **Command list**
