@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "Testing command manager component..."
+cd ../parking_lot/functional_spec/parking
+go test -v
